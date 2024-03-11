@@ -4,7 +4,8 @@ Welcome to my GitHub repository! Please note that the code here is for education
 
 ## About the Projects:
 If you're interested in my learning journey or want to know more about the courses I've been taking, you can visit the learning platform of the University of Engineering and Technology - Vietnam National University, Hanoi [here](https://oasis.uet.vnu.edu.vn/#/dashboard).
- 
+
+### Link to Learning Platform:
 * Tuần 1: [Hello World](https://github.com/onionT-312/oasis_UET/blob/main/HelloWorld/src/Main.java)
 
 * Tuần 2:
@@ -21,9 +22,6 @@ If you're interested in my learning journey or want to know more about the cours
 
 * [**Updatinggg**](https://github.com/onionT-312/oasis_UET/tree/main)
 
-
-### Link to Learning Platform:
-If you're interested in my learning journey or want to know more about the courses I've been taking, you can visit the learning platform of the University of Engineering and Technology - Vietnam National University, Hanoi [here](https://oasis.uet.vnu.edu.vn/#/dashboard).
 
 **Important note about academic integrity:**
 
