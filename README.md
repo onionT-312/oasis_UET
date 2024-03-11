@@ -12,7 +12,7 @@ If you're interested in my learning journey or want to know more about the cours
 
 * Tuần 2:
     - [Quản lý sinh viên](https://github.com/onionT-312/oasis_UET/tree/main/Student/src)
-    - [JUnit](https://github.com/onionT-312/oasis_UET/tree/main/Week4)
+    - JUnit[Week4](https://github.com/onionT-312/oasis_UET/blob/main/Week4/src/main/java/Week4.java) [Week4Test](https://github.com/onionT-312/oasis_UET/blob/main/Week4/src/test/java/Week4Test.java)
 
 * Tuần 3:
     - [Ước chung lớn nhất](https://github.com/onionT-312/oasis_UET/blob/main/GCD/src/Solution.java)
