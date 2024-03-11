@@ -1,5 +1,4 @@
-![Logo1](https://uet.vnu.edu.vn/wp-content/uploads/2017/02/logo2_new.png)
-![Logo2](https://oasis.uet.vnu.edu.vn/static/media/logo-mini.89ecf79d.png)
+![Logo1](https://oasis.uet.vnu.edu.vn/static/media/logo-mini.89ecf79d.png)
 
 # Hello there!
 Welcome to my GitHub repository! Please note that the code here is for educational and reference purposes only.
@@ -25,6 +24,7 @@ If you're interested in my learning journey or want to know more about the cours
 * [**Updating...**](https://github.com/onionT-312/oasis_UET/tree/main)
 
 
+![Logo2](https://upload.wikimedia.org/wikipedia/vi/b/bf/Logo_HUET.svg)
 **Important note about academic integrity:**
 
 It is important to emphasize that the OASIS system may have mechanisms to detect code similarity and plagiarism. So I want to emphasize that I am not responsible for any consequences if you are caught copying or plagiarizing code from this repository.
