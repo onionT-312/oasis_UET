@@ -1,4 +1,4 @@
-![Logo1](https://upload.wikimedia.org/wikipedia/vi/b/bf/Logo_HUET.svg)
+![Logo1](https://uet.vnu.edu.vn/wp-content/uploads/2017/02/logo2_new.png)
 ![Logo2](https://oasis.uet.vnu.edu.vn/static/media/logo-mini.89ecf79d.png)
 
 # Hello there!
