@@ -21,6 +21,10 @@ If you're interested in my learning journey or want to know more about the cours
 
 * Tuần 4: [Transaction](https://github.com/onionT-312/oasis_UET/tree/main/Transaction/src)
 
+* Tuần 5:
+    - [Kế thừa 1](https://github.com/onionT-312/oasis_UET/tree/main/KeThua1/src)
+    - [Kế thừa 2](https://github.com/onionT-312/oasis_UET/tree/main/KeThua2/src)
+
 * [**Updating...**](https://github.com/onionT-312/oasis_UET/tree/main)
 
 
