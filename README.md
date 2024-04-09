@@ -25,10 +25,14 @@ If you're interested in my learning journey or want to know more about the cours
     - [Kế thừa 1](https://github.com/onionT-312/oasis_UET/tree/main/KeThua1/src)
     - [Kế thừa 2](https://github.com/onionT-312/oasis_UET/tree/main/KeThua2/src)
 
- * Tuần 5:
+ * Tuần 6:
     - [Đa hình 1](https://github.com/onionT-312/oasis_UET/tree/main/DaHinh1/src)
     - [Đa hình 2](https://github.com/onionT-312/oasis_UET/tree/main/DaHinh2/src)
     - [Đa hình 3](https://github.com/onionT-312/oasis_UET/tree/main/DaHinh3/src)
+* Tuần 8: [Kiểm tra giữa kì Abtract](https://github.com/onionT-312/oasis_UET/tree/main/Abstract/src)
+* Tuần 9: [Interface](https://github.com/onionT-312/oasis_UET/tree/main/Interface/src)
+
+
 
 * [**Updating...**](https://github.com/onionT-312/oasis_UET/tree/main)
 
