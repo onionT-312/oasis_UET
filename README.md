@@ -31,6 +31,9 @@ If you're interested in my learning journey or want to know more about the cours
     - [Đa hình 3](https://github.com/onionT-312/oasis_UET/tree/main/DaHinh3/src)
 * Tuần 8: [Kiểm tra giữa kì Abtract](https://github.com/onionT-312/oasis_UET/tree/main/Abstract/src)
 * Tuần 9: [Interface](https://github.com/onionT-312/oasis_UET/tree/main/Interface/src)
+* Tuần 10:
+    - [Ngoại lệ 1](https://github.com/onionT-312/oasis_UET/tree/main/NgoaiLe1/src)
+    - [Ngoại lệ 2](https://github.com/onionT-312/oasis_UET/blob/main/NgoaiLe2/src/Week8Task2.java)
 
 
 
