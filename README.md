@@ -34,6 +34,9 @@ If you're interested in my learning journey or want to know more about the cours
 * Tuần 10:
     - [Ngoại lệ 1](https://github.com/onionT-312/oasis_UET/tree/main/NgoaiLe1/src)
     - [Ngoại lệ 2](https://github.com/onionT-312/oasis_UET/blob/main/NgoaiLe2/src/Week8Task2.java)
+* Tuần 11:
+    - [Cờ vua](https://github.com/onionT-312/oasis_UET/tree/main/CoVua/src)
+    - [Lập trình tổng quát](https://github.com/onionT-312/oasis_UET/tree/main/LapTrinhTongQuat/src)
 
 
 
