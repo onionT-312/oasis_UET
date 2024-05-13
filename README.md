@@ -37,10 +37,12 @@ If you're interested in my learning journey or want to know more about the cours
 * Tuần 11:
     - [Cờ vua](https://github.com/onionT-312/oasis_UET/tree/main/CoVua/src)
     - [Lập trình tổng quát](https://github.com/onionT-312/oasis_UET/tree/main/LapTrinhTongQuat/src)
+* Tuần 12:
+    - [Phân tích chương trình](https://github.com/onionT-312/oasis_UET)
+* Tuần 11:
+    - [Banking System](https://github.com/onionT-312/oasis_UET/tree/main/BankingSystem/src)
 
-
-
-* [**Updating...**](https://github.com/onionT-312/oasis_UET/tree/main)
+* [**Updating...**](https://github.com/onionT-312/oasis_UET)
 
 
 ![Logo2](https://upload.wikimedia.org/wikipedia/vi/b/bf/Logo_HUET.svg)
